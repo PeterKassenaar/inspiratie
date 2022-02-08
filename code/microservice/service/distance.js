@@ -3,7 +3,8 @@
 // (like axios, got, and more. Search https://www.npmjs.com/ for more).
 const request = require('request');
 
-// 2. My key - Please register for your own key. You can store this in an environment variable for safety.
+// 2. My key - Please register for your own key.
+// You can store this in an environment variable for safety.
 const apiKey = process.env.ZIPCODE_API_KEY ||
     "sSHNTiMLwwIUItZWXexJMVC7G2QM8hHwNu3D4y9n4glFwQL2qJltKk6tqjtp799G";
 
@@ -12,7 +13,7 @@ const zipCodeURL = process.env.ZIPCODE_API_URL ||
     'https://www.zipcodeapi.com/rest/';
 
 // 4. The exported object with external API communication function (called 'find')
-var distance = {
+const distance = {
     find: (req, res, next) => {
         // 4a. use the request package
         request(zipCodeURL + apiKey +

@@ -6,7 +6,7 @@ const properties = require('../package.json');
 const distance = require('../service/distance');
 
 // 2. Specify methods on this controller
-var controllers = {
+const controllers = {
     // 2a. Use package.json to show information.
     about: (req, res) => {
         var aboutInfo = {
@@ -25,6 +25,10 @@ var controllers = {
             res.json(dist);
         });
     },
+
+    getAuthor:()=>{
+        // more methods, more services, and so on......
+    }
 };
 
 // 3. export the controller
