@@ -1,6 +1,13 @@
 # inspiratie
 Slides on the Inspiration session Application Development - Feb. 2022
 
+## Workshops
+Code from participants. Download and study the code/cases/examples from your colleagues!
+- Mike: https://github.com/miketimmerman/weertje
+- Dave: https://github.com/davetromp/rijksapi
+- Stefan: https://github.com/Pierezz075-NL/WeatherApp
+- ...
+
 ## Links
 - Angular vs. Vue vs. React - detailed blog post: https://athemes.com/guides/angular-vs-react-vs-vue/
 - OR: https://www.codeinwp.com/blog/angular-vs-vue-vs-react/
