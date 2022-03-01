@@ -1,11 +1,13 @@
 # inspiratie
 Slides on the Inspiration session Application Development - Feb. 2022
+This repo will be here until ca. April 2022.
 
 ## Workshops
 Code from participants. Download and study the code/cases/examples from your colleagues!
 - Mike: https://github.com/miketimmerman/weertje
 - Dave: https://github.com/davetromp/rijksapi
 - Stefan: https://github.com/Pierezz075-NL/WeatherApp
+- Send in your links or zip, if you want to share your work!
 - ...
 
 ## Links
